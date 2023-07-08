@@ -44,7 +44,7 @@ function App() {
                   <div className="text-sm px-5 py-4 mb-4 overflow-hidden rounded border border-sky-500/20 bg-sky-50/50 dark:border-sky-500/30 dark:bg-sky-500/10">
                     <pre className="language-bash">
                       <code className="language-bash">
-                        <span className="token function">curl</span> <span className="token parameter variable">-ks</span> https://prod.blocktimestamp.workers.dev/blocks/1
+                        <span className="token function">curl</span> <span className="token parameter variable">-ks</span> https://prod.blocktimestamp.workers.dev/ethereum/blocks/1
                         <br />
                         <span className="token function">>>></span> 
                         <br />
